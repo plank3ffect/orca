@@ -2,3 +2,8 @@
 transcript
 *.elf
 *.dump
+
+db/
+incremental_db/
+system/
+simulation/
